@@ -16,7 +16,7 @@ int main()
     // set the board
     if (number_of_players == 2)
     {
-        corridor.board[0]   = "  A  ";
+        corridor.board[0]   = "  a  ";
         corridor.board[10]  = "  B  ";
     }
     else if (number_of_players == 3)
